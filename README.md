@@ -1,4 +1,4 @@
-# Store-Summary
+# Store-Summary (Tableau)
 ## Tableau Charts
 
 ![image](https://user-images.githubusercontent.com/110743067/191073017-65533933-b9fc-41cf-91ae-ad4cc0b8c454.png)
